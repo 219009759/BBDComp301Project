@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Lyrics Project App",
+    "description": "Lyrics Project App is a lyrics search app, fetching data from Deezer and Lyrics.ovh.",
+    "icon": "./assets/images/icon.png",
+    "slug": "lyrics-project-app",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+   
+    "orientation": "portrait",
+    "privacy": "public",
+    "primaryColor": "#07CCBA",
+    "splash": {
+      "backgroundColor": "#191919 ",
+      "image": "./assets/images/splash.png",
+      "resizeMode": "cover"
+    }
+  }
+}
